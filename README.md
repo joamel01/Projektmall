@@ -31,9 +31,10 @@ Kort beskrivning av projektet, syfte och målbild.
 
 ## Kom igång
 
-1. Fyll i projektnamn, ägare och mål i `00-admin/projektkort.md`.
-2. Samla krav i `01-krav/kravlista.md`.
-3. Dokumentera viktiga beslut i `09-beslut/ADR-0001-mall.md`.
-4. Håll korta arbetsuppgifter i `TODO.md`.
-5. Läs `AGENTS.md` innan du ber Codex göra större ändringar.
-6. Lägg löpande status i `reports/statusrapport.md`.
+1. Om du skapar ett nytt projekt från mallen: följ `00-admin/starta-nytt-projekt.md` först.
+2. Fyll i projektnamn, ägare och mål i `00-admin/projektkort.md`.
+3. Samla krav i `01-krav/kravlista.md`.
+4. Dokumentera viktiga beslut i `09-beslut/ADR-0001-mall.md`.
+5. Håll korta arbetsuppgifter i `TODO.md`.
+6. Läs `AGENTS.md` innan du ber Codex göra större ändringar.
+7. Lägg löpande status i `reports/statusrapport.md`.
