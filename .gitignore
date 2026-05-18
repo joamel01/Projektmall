@@ -1,0 +1,31 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets and local config
+.env
+.env.*
+*.local
+
+# Logs/cache
+logs/*
+!logs/.gitkeep
+*.log
+.cache/
+.tmp/
+
+# Build/test output
+dist/
+build/
+coverage/
+node_modules/
+__pycache__/
+*.pyc
+
+# Data outputs
+05-data/raw/*
+05-data/processed/*
+!05-data/raw/.gitkeep
+!05-data/processed/.gitkeep
